@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "URI direct Download WebGL",
+"productVersion": "0.1",
+"dataUrl": "WEB_BUILD_uri_DirectDownload.data.unityweb",
+"wasmCodeUrl": "WEB_BUILD_uri_DirectDownload.wasm.code.unityweb",
+"wasmFrameworkUrl": "WEB_BUILD_uri_DirectDownload.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.3f1"
+}
